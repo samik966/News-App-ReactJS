@@ -1,5 +1,4 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-![alt text](https://raw.githubusercontent.com/samik966/News-App-ReactJS/master/Screen1.jpg)
 <p align="center">
   <img src="https://raw.githubusercontent.com/samik966/News-App-ReactJS/master/Screen1.jpg" width="256" height="455">
   <img src="https://raw.githubusercontent.com/samik966/News-App-ReactJS/master/Screen1.jpg" width="256" height="455">
