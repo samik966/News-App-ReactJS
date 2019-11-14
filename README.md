@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 <p align="center">
   <img src="https://raw.githubusercontent.com/samik966/News-App-ReactJS/master/Screen1.jpg" width="256" height="455">
-  <img src="https://raw.githubusercontent.com/samik966/News-App-ReactJS/master/Screen1.jpg" width="256" height="455">
+  <img src="https://raw.githubusercontent.com/samik966/News-App-ReactJS/master/Screen2.jpg" width="256" height="455">
 </p>
 ## Available Scripts
 
