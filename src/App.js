@@ -34,6 +34,7 @@ class App extends Component {
             config.COUNTRY.map(c => {
                 if(config.COUNTRY[0].code !== 'global')
                     country += '&country='+c.code;
+                return null;
             })
             this.setState({country: 'global'});
         }
@@ -62,6 +63,7 @@ class App extends Component {
             config.COUNTRY.map((c,i) => {
                 if(config.COUNTRY[0].code !== 'global')
                     country += '&country='+c.code;
+                return null;
             })
             this.setState({country: 'global'});
         }
